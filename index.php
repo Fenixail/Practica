@@ -118,7 +118,7 @@ if(isset($_POST['submit'])){
 <section id="copy-right">
 			<div class="copy-right-sec">
 				<a>Site Form 2023 Powerd By</a><br>
-        <a href="https://github.com/neon4on">Kamenskikh Valeriy</a> 
+        <a href="https://github.com/Fenixail">Mahsudov Rasim</a> 
         <div class="navigation">
           <a href="index.html">Вернуться назад</a>
         </div>
